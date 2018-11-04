@@ -1,0 +1,60 @@
+html{
+border-width: 960px;
+background-image: url("assets/images/old_moon/old_moon.png");
+ 
+}
+
+header {
+display: inline-block;
+font-family: 'Georgia', Times, Times New Roman, serif;
+color: 777777;
+background-color: ffffff;
+border-style: 1px;
+border-color: cccccc;
+}
+
+h1{
+    float:left;
+    
+    color:white;
+    background-color: #4aaaa5;
+    padding: 8px;
+}
+
+h2{
+    color:#4aaaa5;
+}
+
+h3{
+    color:white;
+    background-color: #4aaaa5;   
+}
+
+body {
+font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+background-image: url("assets/images/old_moon/old_moon.png");
+margin: 0; padding: 0;
+background-color: ffffff;
+border-color: dddddd;
+border-style: solid;
+}
+
+
+li a{
+float: right;
+
+}
+
+p {
+color: 777777;
+
+}
+
+a {
+display: block;
+}
+
+footer {
+    width: 960px;
+background-color: 666666
+}

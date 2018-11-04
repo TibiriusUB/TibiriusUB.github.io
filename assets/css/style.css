@@ -1,0 +1,47 @@
+body {
+
+margin: auto;
+margin-top: 0px;
+color:#777777;
+font-family: Arial, Helvetica, sans-serif;
+background-image: url("/assets/images/old_moon/old_moon_@2X.jpg");
+}
+.header{
+position: relative;
+width: 100%;
+background-color:  #ffffff;
+bottom:100px;
+}
+
+h2{
+font-family: Georgia, 'Times New Roman', Times, serif;
+color:#4aaaa5;
+}
+
+footer{
+    background-color: #666666;
+}
+
+.name{
+
+background-color: #4aaaa5;
+
+}
+.bodytalk{
+width:960px;
+margin: auto;
+}
+
+.nav{
+    float: right;
+}
+
+.bodybox{
+background-color: #ffffff;
+border-color: #dddddd
+}
+.bodyname
+
+.pic
+
+.maintext
